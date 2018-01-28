@@ -40,7 +40,8 @@ ______________________________________________________________________<br>
 
 about the new functions:
 
-kmod : this function is no of functions supported by help commands
+kmod : this function is no of functions supported by help commands<br><br>
+<p align="center"><img src="https://raw.githubusercontent.com/adarshk007/my_Python_shell/master/shell.png" width="300px"></img></p>
 
 <h4>Contributions:</h4>
 
@@ -50,3 +51,5 @@ kmod : this function is no of functions supported by help commands
 >> change the readme 
 >> commit
 ```
+
+
